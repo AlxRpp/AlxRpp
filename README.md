@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">What I’m doing right now</h2>
+<h2 align="center">What I’m doing right now</h2>
 
 ###
 
