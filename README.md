@@ -39,29 +39,29 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="35" alt="angularjs logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="35" alt="sass logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="bootstrap logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="32" alt="angularjs logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="32" alt="sass logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" alt="bootstrap logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="git logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="32" alt="npm logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" alt="firebase logo"  />
 </div>
 
 ###
