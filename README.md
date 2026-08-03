@@ -28,7 +28,6 @@
 
 ###
 
-<p align="left">🚀 Alien Adventure --> a small 2D Broswergame drawed into a canvas --> https://alien-adventure.alexander-ruppel.de<br>🧩 Join --> Projectmanagementtool inspired by a Kanbanboard --> https://join.alexander-ruppel.de/login.html<br>🎯 Pokédex --> A Pokédex web app to browse Pokémon and save your favorites. --> https://pokedex.alexander-ruppel.de/</p>
 
 ###
 
