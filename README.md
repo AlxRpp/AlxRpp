@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Projects I’m proud of (so far)</h2>
+
 
 ###
 
